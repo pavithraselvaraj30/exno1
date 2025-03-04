@@ -22,6 +22,7 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 #  Data Cleaning
 ![Screenshot 2025-02-27 152916](https://github.com/user-attachments/assets/f44498a9-a80e-477f-8971-24413bbb329b)
+
 ![Screenshot 2025-02-27 152959](https://github.com/user-attachments/assets/53c24624-04ff-4ea8-9de3-9c7a17122bd9)
 
 ![Screenshot 2025-02-27 153040](https://github.com/user-attachments/assets/ffac0c7f-cfec-4a15-9642-bf3e036b98b2)
@@ -44,6 +45,7 @@ STEP 6: Use zscore of to remove outliers
 # Z-Score
 
 ![Screenshot 2025-03-04 103152](https://github.com/user-attachments/assets/7f39c1d6-58ec-4758-bdb4-2471740124ce)
+
 ![Screenshot 2025-03-04 111619](https://github.com/user-attachments/assets/fec3fc23-2744-4d5e-ae11-24251c5b5f57)
 
 ![Screenshot 2025-03-04 111627](https://github.com/user-attachments/assets/fb5321fc-5783-46c0-a776-8937ef92f89e)
